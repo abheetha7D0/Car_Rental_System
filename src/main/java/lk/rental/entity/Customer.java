@@ -20,7 +20,11 @@ public class Customer {
     private String address;
     private String contactNumber;
     private String email;
-    private String licenseNumber;
     private String password;
+    private String licenseNumber;
+    //private String licensePhoto;
+    private String NICNumber;
+    //private String NICPhoto;
     private String status; //available or not
+
 }
